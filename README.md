@@ -1,6 +1,7 @@
 # Handwritten-equation-solver-using-CNN
 Handwritten equation solver using CNN + canvas로 수식 그려넣어 계산하기
 
+기간 : 2021.02.19 - 2021.02.24
 
 ![필기체 자동계산기_CNN-01](https://user-images.githubusercontent.com/53815335/162885225-e9341daf-1fc0-4765-951a-8604693b7b1f.png)
 ![필기체 자동계산기_CNN-02](https://user-images.githubusercontent.com/53815335/162885227-115978e8-2506-44bd-bf85-5cc115f26059.png)
